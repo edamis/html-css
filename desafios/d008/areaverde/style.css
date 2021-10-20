@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(15, 139, 15);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: whitesmoke;
+    font-size: x-large;
+}
+li{
+    color: whitesmoke;
+    font-size: x-large;
+}
